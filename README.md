@@ -1,21 +1,15 @@
-## Hi there 👋
+# Hi 👋 My name is Franco,
+## Fullstack Developer
+-------------------
 
-<!--
-**francoangulo/francoangulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+With +3 years of experience and pushing always myself to new challenges, I am passionate developer that is always looking to improve myself and the environment around
 
-Here are some ideas to get you started:
+* 🌍  I'm based in Argentina
+* 🖥️  Check my temporary portfolio [here](http://francoangulo.vercel.app/)
+* ✉️  You can contact me at [francoangulo2001@gmail.com](mailto:francoangulo2001@gmail.com)
+* 🧠  I'm learning NextJS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## Github Stats  
+### Check my GitHub Stats  
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=francoangulo&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
