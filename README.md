@@ -9,13 +9,11 @@ With +3 years of experience and pushing always myself to new challenges, I am pa
 * ✉️  You can contact me at [francoangulo2001@gmail.com](mailto:francoangulo2001@gmail.com)
 * 🧠  I'm learning NextJS
 
-### Check my GitHub Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=francoangulo&theme=tokyonight" align="left" width="100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francoangulo&hide_border=true&layout=compact&theme=tokyonight" align="left" style="width: 100%" />
-
-</td></tr></table>  
+ 
+<table>
+  <tr>
+    <td valign="top" width="100%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francoangulo&hide_border=true&layout=compact&theme=tokyonight" />
+    </td>
+  </tr>
+</table>  
