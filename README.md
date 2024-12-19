@@ -12,7 +12,7 @@ With +3 years of experience and pushing always myself to new challenges, I am pa
 ### Check my GitHub Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=francoangulo&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+[![Franco's GitHub stats](https://github-readme-stats.vercel.app/api?username=francoangulo)](https://github.com/francoangulo/github-readme-stats)
 
 </td><td valign="top" width="50%">
 
